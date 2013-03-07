@@ -1,0 +1,4 @@
+CaseStudy
+=========
+
+Pripadove studie
